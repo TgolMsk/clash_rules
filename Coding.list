@@ -51,3 +51,5 @@ DOMAIN-KEYWORD,defipulse
 DOMAIN-KEYWORD,coingecko
 DOMAIN-KEYWORD,coinmarketcap
 DOMAIN-KEYWORD,molandak
+# STM32CubeMX 
+DOMAIN-KEYWORD,notifications
