@@ -1,7 +1,6 @@
 # 内容：开发相关依赖
 # 数量：
 DOMAIN-KEYWORD,pythonhosted
-DOMAIN-KEYWORD,galaxycloud
 DOMAIN-KEYWORD,npmjs
 DOMAIN-KEYWORD,fantuan168
 DOMAIN-KEYWORD,launchpadcontent
@@ -12,44 +11,6 @@ DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,codeium
 DOMAIN-KEYWORD,metamask.io
 DOMAIN-KEYWORD,infura
-
-# 以太坊相关服务
-DOMAIN-KEYWORD,ethereum
-DOMAIN-KEYWORD,etherscan
-DOMAIN-KEYWORD,ethdisco
-DOMAIN-KEYWORD,geth
-DOMAIN-KEYWORD,ethstats
-DOMAIN-KEYWORD,ethdev
-DOMAIN-KEYWORD,etherchain
-DOMAIN-KEYWORD,ethgasstation
-DOMAIN-KEYWORD,ethernodes
-DOMAIN-KEYWORD,beaconcha
-DOMAIN-KEYWORD,prylabs
-DOMAIN-KEYWORD,alchemyapi
-DOMAIN-KEYWORD,ankr
-DOMAIN-KEYWORD,chainstack
-DOMAIN-KEYWORD,quicknode
-DOMAIN-KEYWORD,pokt
-DOMAIN-KEYWORD,blockscout
-DOMAIN-KEYWORD,ethfiddle
-DOMAIN-KEYWORD,remix
-DOMAIN-KEYWORD,web3js
-DOMAIN-KEYWORD,ethers
-DOMAIN-KEYWORD,openzeppelin
-DOMAIN-KEYWORD,consensys
-DOMAIN-KEYWORD,truffle
-DOMAIN-KEYWORD,hardhat
-DOMAIN-KEYWORD,ipfs
-DOMAIN-KEYWORD,pinata
-DOMAIN-KEYWORD,arweave
-DOMAIN-KEYWORD,chainlink
-DOMAIN-KEYWORD,uniswap
-DOMAIN-KEYWORD,opensea
-DOMAIN-KEYWORD,dappradar
-DOMAIN-KEYWORD,defipulse
-DOMAIN-KEYWORD,coingecko
-DOMAIN-KEYWORD,coinmarketcap
-DOMAIN-KEYWORD,molandak
 # STM32CubeMX 
 DOMAIN-KEYWORD,notifications
 # 建模相关
