@@ -20,3 +20,5 @@ DOMAIN-KEYWORD,cults3d
 DOMAIN-KEYWORD,galaxycloud
 # cloudflare
 DOMAIN-KEYWORD,cloudflare
+# docker
+DOMAIN-KEYWORD,docker.n8n.io
