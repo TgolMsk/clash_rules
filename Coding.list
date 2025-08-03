@@ -21,4 +21,5 @@ DOMAIN-KEYWORD,galaxycloud
 # cloudflare
 DOMAIN-KEYWORD,cloudflare
 # docker
-
+DOMAIN-SUFFIX,n8n.io
+DOMAIN-SUFFIX,n8n.cloud
