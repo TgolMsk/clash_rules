@@ -23,3 +23,5 @@ DOMAIN-KEYWORD,cloudflare
 # docker
 DOMAIN-SUFFIX,n8n.io
 DOMAIN-SUFFIX,n8n.cloud
+# AI
+DOMAIN-SUFFIX,claude.ai
