@@ -33,3 +33,9 @@ DOMAIN-KEYWORD,uvicorn,Proxy-Group    # 所有 uvicorn 请求走代理
 DOMAIN-KEYWORD,flask,Proxy-Group      # 所有 flask 请求走代理
 DOMAIN-KEYWORD,django,Proxy-Group     # 所有 django 请求走代理
 DOMAIN-KEYWORD,fastapi,Proxy-Group    # 所有 fastapi 请求走代理
+DOMAIN-SUFFIX,jetbrains.com,Proxy-Group   # 所有访问 jetbrains.com 的请求走代理
+DOMAIN-SUFFIX,intellij.net,Proxy-Group    # 所有访问 intellij.net 的请求走代理
+DOMAIN-SUFFIX,pycharm.com,Proxy-Group      # 所有访问 pycharm.com 的请求走代理
+DOMAIN-SUFFIX,rubyMine.com,Proxy-Group    # 所有访问 rubyMine.com 的请求走代理
+DOMAIN-SUFFIX,webstorm.com,Proxy-Group     # 所有访问 webstorm.com 的请求走代理
+DOMAIN-KEYWORD,jetbrains,Proxy-Group       # 所有包含 jetbrains 关键词的请求走代理
