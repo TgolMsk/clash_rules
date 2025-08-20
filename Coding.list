@@ -33,3 +33,5 @@ DOMAIN-KEYWORD,uvicorn,Proxy-Group    # 所有 uvicorn 请求走代理
 DOMAIN-KEYWORD,flask,Proxy-Group      # 所有 flask 请求走代理
 DOMAIN-KEYWORD,django,Proxy-Group     # 所有 django 请求走代理
 DOMAIN-KEYWORD,fastapi,Proxy-Group    # 所有 fastapi 请求走代理
+DOMAIN-KEYWORD,anthropic,Proxy-Group
+DOMAIN-KEYWORD,claude,Proxy-Group
