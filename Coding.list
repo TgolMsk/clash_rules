@@ -26,13 +26,14 @@ DOMAIN-SUFFIX,n8n.cloud
 # AI
 DOMAIN-SUFFIX,claude.ai
 # python
-DOMAIN-SUFFIX,python.org,Proxy-Group   # 所有访问 python.org 的请求走代理
-DOMAIN-KEYWORD,pip,Proxy-Group         # 所有 pip 请求走代理
-DOMAIN-KEYWORD,requests,Proxy-Group   # 所有 requests 模块请求走代理
-DOMAIN-KEYWORD,uvicorn,Proxy-Group    # 所有 uvicorn 请求走代理
-DOMAIN-KEYWORD,flask,Proxy-Group      # 所有 flask 请求走代理
-DOMAIN-KEYWORD,django,Proxy-Group     # 所有 django 请求走代理
-DOMAIN-KEYWORD,fastapi,Proxy-Group    # 所有 fastapi 请求走代理
-DOMAIN-KEYWORD,anthropic,Proxy-Group
-DOMAIN-KEYWORD,claude,Proxy-Group
-DOMAIN-KEYWORD,brew,Proxy-Group
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,python.org   # 所有访问 python.org 的请求走代理
+DOMAIN-KEYWORD,pip      # 所有 pip 请求走代理
+DOMAIN-KEYWORD,requests   # 所有 requests 模块请求走代理
+DOMAIN-KEYWORD,uvicorn   # 所有 uvicorn 请求走代理
+DOMAIN-KEYWORD,flask    # 所有 flask 请求走代理
+DOMAIN-KEYWORD,django    # 所有 django 请求走代理
+DOMAIN-KEYWORD,fastapi   # 所有 fastapi 请求走代理
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,brew
