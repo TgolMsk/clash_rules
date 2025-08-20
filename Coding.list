@@ -35,3 +35,4 @@ DOMAIN-KEYWORD,django,Proxy-Group     # 所有 django 请求走代理
 DOMAIN-KEYWORD,fastapi,Proxy-Group    # 所有 fastapi 请求走代理
 DOMAIN-KEYWORD,anthropic,Proxy-Group
 DOMAIN-KEYWORD,claude,Proxy-Group
+DOMAIN-KEYWORD,brew,Proxy-Group
